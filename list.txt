@@ -1,1 +1,2 @@
 Hello. First test for GIT
+Second row
