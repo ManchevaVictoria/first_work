@@ -1,2 +1,3 @@
 Hello. First test for GIT
 Second row
+3 row
